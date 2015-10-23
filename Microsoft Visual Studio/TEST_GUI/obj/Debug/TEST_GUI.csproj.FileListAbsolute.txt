@@ -1,0 +1,10 @@
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Debug\TEST_GUI.exe
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Debug\TEST_GUI.pdb
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Debug\Bluewave.Interop.Asio.dll
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Debug\Bluewave.Interop.Asio.pdb
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Debug\ResolveAssemblyReference.cache
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Debug\TEST_GUI.Form1.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Debug\TEST_GUI.Properties.Resources.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Debug\TEST_GUI.csproj.GenerateResource.Cache
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Debug\TEST_GUI.exe
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Debug\TEST_GUI.pdb

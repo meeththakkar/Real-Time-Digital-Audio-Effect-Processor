@@ -1,0 +1,15 @@
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\bin\Debug\EffectsUI.exe
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\bin\Debug\EffectsUI.pdb
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.Distortion.resources
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.Properties.Resources.resources
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.exe
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.pdb
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.Autowah.resources
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.Chorus.resources
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.delay.resources
+c:\users\sagnik roychowdhury\documents\visual studio 2010\Projects\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.reverb.resources
+D:\B.E. project\EffectsUI\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.exe
+D:\B.E. project\EffectsUI\EffectsUI\EffectsUI\obj\x86\Debug\EffectsUI.pdb

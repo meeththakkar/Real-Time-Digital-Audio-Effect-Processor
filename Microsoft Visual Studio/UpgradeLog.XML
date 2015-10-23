@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BlueWave.Interop.Asio">
+</Property><Property Name="Solution File" Value="C:\Users\meet\Downloads\Asio.Net_src(1)\BlueWave.Interop.Asio.sln">
+</Property><Property Name="Date" Value="17 February 2012">
+</Property><Property Name="Time" Value="16:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BlueWave.Interop.Asio.sln" Description="File successfully backed up as C:\Users\meet\Downloads\Asio.Net_src(1)\BlueWave.Interop.Asio.sln.old">
+</Event><Event ErrorLevel="0" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Converting project file 'C:\Users\meet\Downloads\Asio.Net_src(1)\BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Done converting to new project file 'C:\Users\meet\Downloads\Asio.Net_src(1)\BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Bluewave.Interop.Asio" Source="BlueWave.Interop.Asio\Bluewave.Interop.Asio.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BlueWave.Interop.Asio.Test" Source="BlueWave.Interop.Asio.Test\BlueWave.Interop.Asio.Test.csproj" Description="Project file successfully backed up as C:\Users\meet\Downloads\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\BlueWave.Interop.Asio.Test.csproj.old">
+</Event><Event ErrorLevel="0" Project="BlueWave.Interop.Asio.Test" Source="BlueWave.Interop.Asio.Test\BlueWave.Interop.Asio.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BlueWave.Interop.Asio.Test" Source="BlueWave.Interop.Asio.Test\BlueWave.Interop.Asio.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BlueWave.Interop.Asio.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BlueWave.Interop.Asio.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BlueWave.Interop.Asio.Test" Source="BlueWave.Interop.Asio.Test\BlueWave.Interop.Asio.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

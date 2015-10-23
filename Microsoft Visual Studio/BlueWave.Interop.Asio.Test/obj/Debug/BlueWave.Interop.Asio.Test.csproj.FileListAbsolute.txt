@@ -1,0 +1,8 @@
+C:\Users\meet\Downloads\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\B.E. project\donwload\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\bin\Debug\BlueWave.Interop.Asio.Test.exe
+D:\B.E. project\donwload\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\bin\Debug\BlueWave.Interop.Asio.Test.pdb
+D:\B.E. project\donwload\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\bin\Debug\Bluewave.Interop.Asio.dll
+D:\B.E. project\donwload\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\bin\Debug\Bluewave.Interop.Asio.pdb
+D:\B.E. project\donwload\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\B.E. project\donwload\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\obj\Debug\BlueWave.Interop.Asio.Test.exe
+D:\B.E. project\donwload\Asio.Net_src(1)\BlueWave.Interop.Asio.Test\obj\Debug\BlueWave.Interop.Asio.Test.pdb

@@ -1,0 +1,16 @@
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\obj\Debug\TEST_SERIAL.Form1.resources
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\obj\Debug\TEST_SERIAL.Properties.Resources.resources
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\obj\Debug\TEST_SERIAL.csproj.GenerateResource.Cache
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\bin\Debug\TEST_SERIAL.exe
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\bin\Debug\TEST_SERIAL.pdb
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\obj\Debug\TEST_SERIAL.exe
+C:\Users\meet\Documents\Visual Studio 2008\Projects\TEST_SERIAL\TEST_SERIAL\obj\Debug\TEST_SERIAL.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\bin\Debug\TEST_SERIAL.exe
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\bin\Debug\TEST_SERIAL.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\obj\Debug\ResolveAssemblyReference.cache
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\obj\Debug\TEST_SERIAL.csproj.GenerateResource.Cache
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\obj\Debug\TEST_SERIAL.exe
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\obj\Debug\TEST_SERIAL.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\obj\Debug\AEF.Form1.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_SERIAL\obj\Debug\AEF.Properties.Resources.resources

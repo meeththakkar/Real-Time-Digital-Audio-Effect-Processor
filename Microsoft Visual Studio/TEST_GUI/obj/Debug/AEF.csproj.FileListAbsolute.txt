@@ -1,0 +1,41 @@
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Debug\AEF.exe.config
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Debug\AEF.exe
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Debug\AEF.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Debug\BlueWave.Interop.Asio.dll
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Debug\BlueWave.Interop.Asio.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\ResolveAssemblyReference.cache
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form1.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Autowah.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Distortion.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.MainGUI.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.MDIParent1.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Properties.Resources.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\TEST_GUI.Settings.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.csproj.GenerateResource.Cache
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.exe
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_old.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Chorus.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Noisegate.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Debug\AEF.exe.config
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.exe
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Debug\AEF.exe
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Debug\AEF.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Debug\BlueWave.Interop.Asio.dll
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Debug\BlueWave.Interop.Asio.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\ResolveAssemblyReference.cache
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Chorus.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Distortion.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Noisegate.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form1.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_old.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Autowah.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.MainGUI.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.MDIParent1.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Properties.Resources.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\TEST_GUI.Settings.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.csproj.GenerateResource.Cache
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Delay.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Fuzz.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Debug\AEF.Form_Phasor.resources

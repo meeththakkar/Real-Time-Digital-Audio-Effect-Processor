@@ -1,0 +1,59 @@
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\ResolveAssemblyReference.cache
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.MainGUI.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.csproj.GenerateResource.Cache
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.Form1.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Release\BlueWave.Interop.Asio.dll
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Release\BlueWave.Interop.Asio.pdb
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\TEST_GUI.Settings.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Release\AEF.exe.config
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.Properties.Resources.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Release\AEF.exe
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\bin\Release\AEF.pdb
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.exe
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.pdb
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.Form_Distortion.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.MDIParent1.resources
+D:\B.E. project\donwload\Asio.Net_src(1)\TEST_GUI\obj\Release\AEF.Form_Autowah.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Release\AEF.exe.config
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.exe
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\ResolveAssemblyReference.cache
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form1.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Autowah.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Distortion.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.MainGUI.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.MDIParent1.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Properties.Resources.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\TEST_GUI.Settings.resources
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\obj\Release\AEF.csproj.GenerateResource.Cache
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Release\AEF.exe
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Release\AEF.pdb
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Release\BlueWave.Interop.Asio.dll
+D:\B.E. project\donwload\Main 2008 project folder\TEST_GUI\bin\Release\BlueWave.Interop.Asio.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Release\AEF.exe.config
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Release\AEF.exe
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Release\AEF.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Release\BlueWave.Interop.Asio.dll
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\bin\Release\BlueWave.Interop.Asio.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\ResolveAssemblyReference.cache
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Chorus.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Delay.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Distortion.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Fuzz.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Noisegate.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Phasor.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form1.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_old.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Autowah.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.MainGUI.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.MDIParent1.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Properties.Resources.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\TEST_GUI.Settings.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.csproj.GenerateResource.Cache
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.exe
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Reverb.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Sustain.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Tremolo.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.Form_Vibrato.resources
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\TEST_GUI\obj\Release\AEF.classes.effects.equalizer.Form_Equalizer.resources

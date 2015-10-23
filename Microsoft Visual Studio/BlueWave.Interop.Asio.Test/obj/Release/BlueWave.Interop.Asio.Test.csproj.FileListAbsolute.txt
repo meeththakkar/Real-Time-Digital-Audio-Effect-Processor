@@ -1,0 +1,7 @@
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\BlueWave.Interop.Asio.Test\bin\Release\BlueWave.Interop.Asio.Test.exe
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\BlueWave.Interop.Asio.Test\bin\Release\BlueWave.Interop.Asio.Test.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\BlueWave.Interop.Asio.Test\bin\Release\BlueWave.Interop.Asio.dll
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\BlueWave.Interop.Asio.Test\bin\Release\BlueWave.Interop.Asio.pdb
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\BlueWave.Interop.Asio.Test\obj\Release\ResolveAssemblyReference.cache
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\BlueWave.Interop.Asio.Test\obj\Release\BlueWave.Interop.Asio.Test.exe
+D:\B.E. project\Main 2008 project folder 25-4\Main 2008 project folder\BlueWave.Interop.Asio.Test\obj\Release\BlueWave.Interop.Asio.Test.pdb
